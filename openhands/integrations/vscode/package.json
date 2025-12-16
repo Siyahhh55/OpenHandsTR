@@ -13,11 +13,6 @@
     "vscode": "^1.98.2",
     "node": ">=18.0.0"
   },
-  "activationEvents": [
-    "onCommand:openhands.startConversation",
-    "onCommand:openhands.startConversationWithFileContext",
-    "onCommand:openhands.startConversationWithSelectionContext"
-  ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [

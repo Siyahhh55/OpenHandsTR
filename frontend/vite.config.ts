@@ -72,7 +72,6 @@ export default defineConfig(({ mode }) => {
         // Terminal dependencies - added to prevent runtime optimization
         "@xterm/addon-fit",
         "@xterm/xterm",
-        "@xterm/xterm/css/xterm.css",
       ],
     },
     server: {
